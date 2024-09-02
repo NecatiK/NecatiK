@@ -2,7 +2,7 @@
 
 *Front-End And Web Developer*
 
-![Developer Banner](https://images.unsplash.com/photo-1581091012184-7d4c16e74391?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MXwyMDg3NjN8MHwxfGFsbHwxfHx8fHx8fHwxNjE1MDk0Mzc1&ixlib=rb-1.2.1&q=80&w=1080)
+![Developer Banner](https://images.unsplash.com/photo-1593642634443-44adaa06623a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&q=80&w=1080)
 
 ## Hakkımda / About Me
 
@@ -26,7 +26,7 @@ I am a software developer specialized in Javascript, React.js, Css, Html5, and R
 
 ## 📈 GitHub İstatistikleri / GitHub Stats
 
-![Necati K's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&hide_border=true&theme=radical)
+![Necati K's GitHub Stats](https://github-readme-stats.vercel.app/api?username=NecatiK&show_icons=true&hide_border=true&theme=radical)
 
 ---
 
