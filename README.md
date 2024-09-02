@@ -2,7 +2,7 @@
 
 *Front-End And Web Developer*
 
-![Developer Banner](https://images.unsplash.com/photo-1593642634443-44adaa06623a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&q=80&w=1080)
+![Developer Banner](https://images.unsplash.com/photo-1518770660439-4636190af475?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&q=80&w=400)
 
 ## Hakkımda / About Me
 
@@ -21,6 +21,14 @@ I am a software developer specialized in Javascript, React.js, Css, Html5, and R
 - **HTML5**: Semantik ve erişilebilir web yapıları oluşturma.
 - **React Native**: Mobil uygulamalar geliştirme, hem iOS hem de Android platformlarına uyumlu.
 - **CSS**: Modern ve responsif tasarımlar oluşturma.
+
+---
+
+## ℹ️ Not / Note
+
+Çalıştığım projeler özel şirketlere ait olduğu için projeler gizli durumda ve commit'lere yansımamaktadır.
+
+The projects I work on are proprietary to private companies, so they are kept confidential and do not reflect in my commits.
 
 ---
 
