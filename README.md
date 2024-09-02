@@ -2,7 +2,7 @@
 
 *Front-End And Web Developer*
 
-![Developer Banner](https://images.unsplash.com/photo-1518770660439-4636190af475?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&q=80&w=400)
+![Developer Banner](https://images.unsplash.com/photo-1557682250-31da61d91d4d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&q=80&w=800)
 
 ## Hakkımda / About Me
 
@@ -16,17 +16,21 @@ I am a software developer specialized in Javascript, React.js, Css, Html5, and R
 
 ## 🚀 Yetenekler / Skills
 
-- **JavaScript**: Dinamik ve etkileşimli web sayfaları geliştirme.
-- **React.js**: Yeniden kullanılabilir UI bileşenleri ve SPA'lar (Single Page Applications) oluşturma.
-- **HTML5**: Semantik ve erişilebilir web yapıları oluşturma.
-- **React Native**: Mobil uygulamalar geliştirme, hem iOS hem de Android platformlarına uyumlu.
-- **CSS**: Modern ve responsif tasarımlar oluşturma.
+- **JavaScript**: Dinamik ve etkileşimli web sayfaları geliştirme. / Development of dynamic and interactive web pages.
+
+- **React.js**: Yeniden kullanılabilir UI bileşenleri ve SPA'lar (Single Page Applications) oluşturma. / Creating reusable UI components and Single Page Applications (SPAs).
+  
+- **HTML5**: Semantik ve erişilebilir web yapıları oluşturma. / Building semantic and accessible web structures.
+ 
+- **React Native**: Mobil uygulamalar geliştirme, hem iOS hem de Android platformlarına uyumlu. / Developing mobile applications compatible with both iOS and Android platforms.
+  
+- **CSS**: Modern ve responsif tasarımlar oluşturma. / Creating modern and responsive designs.
 
 ---
 
 ## ℹ️ Not / Note
 
-Çalıştığım projeler özel şirketlere ait olduğu için projeler gizli durumda ve commit'lere yansımamaktadır.
+Çalıştığım projeler özel şirketlere ait olduğu için projeler gizli durumda ve commit'lere yansımamaktadır.  
 
 The projects I work on are proprietary to private companies, so they are kept confidential and do not reflect in my commits.
 
@@ -48,20 +52,28 @@ The projects I work on are proprietary to private companies, so they are kept co
 
 ## 🛠️ Yer Aldığım Projeler / Projects I'm Involved
 
-### [KONRAP](#)
-Açıklama: İş Ekipmanlarının Kontrollerini yapan kullanıcıların kolay bir şekilde rapor yazmasını sağlayan program.
+### [KONRAP](https://konrap.com)
+Açıklama: İş Ekipmanlarının Kontrollerini yapan kullanıcıların kolay bir şekilde rapor yazmasını sağlayan program.  
 
-### [BELTAKS](#)
-Açıklama: Belediyelerdeki ekipmanların kontrolünü ve yönetimini sağlayan bir program.
+Description: A program that allows users who control work equipment to easily write reports.
 
-### [VABELS](#)
-Açıklama: Holdinglerde ve büyük küçük şirketlerde gelişmiş bir ERP programı.
+### [BELTAKS](https://beltaks.com)
+Açıklama: Belediyelerdeki ekipmanların kontrolünü ve yönetimini sağlayan bir program.  
+
+Description: A program that facilitates the control and management of equipment in municipalities.
+
+### [VABELS](https://vabels.com)
+Açıklama: Holdinglerde ve büyük küçük şirketlerde gelişmiş bir ERP programı.  
+
+Description: An advanced ERP program for large and small companies, including holdings.
 
 ---
 
 ## 🌟 Destek / Support
 
-Eğer projelerimi beğendiyseniz ve bana destek olmak isterseniz, aşağıdaki bağlantıdan takip edip destek olabilirsiniz:
+Eğer projelerimi beğendiyseniz ve bana destek olmak isterseniz, aşağıdaki bağlantıdan takip edip destek olabilirsiniz:  
+
+If you like my projects and want to support me, you can follow and support me via the link below:
 
 - [LinkedIn](https://www.linkedin.com/in/necati-k-460464245/)
 
