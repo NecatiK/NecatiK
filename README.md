@@ -7,9 +7,11 @@
 ## Hakkımda / About Me
 
 Merhaba! Ben Necati K.  
+
 Javascript, React.js, Css, Html5 ve React Native alanlarında uzmanlaşmış bir yazılım geliştiricisiyim. Hızlı ve etkili çözümler üretmeyi, modern web teknolojilerini kullanarak kullanıcı dostu ve performans odaklı uygulamalar geliştirmeyi seviyorum.
 
 Hello! I'm Necati K.  
+
 I am a software developer specialized in Javascript, React.js, Css, Html5, and React Native. I enjoy crafting fast and effective solutions, creating user-friendly and performance-oriented applications using modern web technologies.
 
 ---
@@ -71,9 +73,9 @@ Description: An advanced ERP program for large and small companies, including ho
 
 ## 🌟 Destek / Support
 
-Eğer projelerimi beğendiyseniz ve bana destek olmak isterseniz, aşağıdaki bağlantıdan takip edip destek olabilirsiniz: 
+Eğer projelerimi beğendiyseniz ve bana destek olmak isterseniz, aşağıdaki bağlantıdan takip edip destek olabilir ayrıca şuan github dan takip edebilir ve public olan projelerimi yıldızlayabilirsiniz: 
 
-If you like my projects and want to support me, you can follow and support me via the link below:
+If you like my projects and want to support me, you can follow and support me from the link below, you can also follow me on github and star my public projects: 
 
 - [LinkedIn](https://www.linkedin.com/in/necati-k-460464245/)
 
