@@ -1,16 +1,20 @@
-## Hi there 👋
+# Necati K
 
-<!--
-**NecatiK/NecatiK** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+*Front-End And Web Developer*
 
-Here are some ideas to get you started:
+## Hakkımda / About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Javascript, React.js, Css, Html5, ReactNative alanlarında uzmanlaşmış yazılım geliştirici. Hızlı ve Etkili Bir Çözüm.  
+Software developer specialized in Javascript, React.js, Css, Html5, ReactNative. A Fast and Effective Solution.
+
+## Yetenekler / Skills
+
+- **JavaScript**
+- **React.js**
+- **HTML5**
+- **React Native**
+- **CSS**
+
+---
+
+![Developer Banner](https://images.unsplash.com/photo-1581091012184-7d4c16e74391?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MXwyMDg3NjN8MHwxfGFsbHwxfHx8fHx8fHwxNjE1MDk0Mzc1&ixlib=rb-1.2.1&q=80&w=1080)
