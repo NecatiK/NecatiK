@@ -26,15 +26,15 @@ I am a software developer specialized in Javascript, React.js, Css, Html5, and R
   
 - **React Native**: Mobil uygulamalar geliştirme, hem iOS hem de Android platformlarına uyumlu. / Developing mobile applications compatible with both iOS and Android platforms. 
   
-- **CSS**: Modern ve responsif tasarımlar oluşturma. / Creating modern and responsive designs.
+- **CSS**: Modern ve responsive tasarımlar oluşturma. / Creating modern and responsive designs.
   
 ---
 
 ## ℹ️ Not / Note
 
-Çalıştığım projeler özel şirketlere ait olduğu için projeler gizli durumda ve commit'lere yansımamaktadır.
+Çalıştığım projeler özel şirketlere ait olduğu için projeler gizli durumda ve aşağıda bulunan istatistikler kısmında ki commit'lere v.s yansımamaktadır.
 
-The projects I work on are proprietary to private companies, so they are kept confidential and do not reflect in my commits.
+Since the projects I work on belong to private companies, the projects are hidden and are not reflected in the commits etc. in the statistics section below.
 
 ---
 
